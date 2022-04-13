@@ -8,8 +8,3 @@
 9 hoge
 8 hoge
 10 ?????
-11 hoge
-12 hoge
-13 hoge
-14 hoge
-15 hoge
